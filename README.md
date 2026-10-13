@@ -1,1 +1,1 @@
-# portfolio-dados-02-analise-vendas-sql
+# | 02 | Análise de Vendas com SQL | SQL · Pandas · CSV | Relatório executivo de estoque |
